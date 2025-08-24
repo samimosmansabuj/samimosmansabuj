@@ -32,8 +32,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="http://github.com/numpy/numpy/blob/main/branding/logo/primary/numpylogo.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -85,6 +83,34 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
+  <img width="12" />
+</div>
+
+
+<h2 align="left">New Skills</h2>
+
+###
+
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Matplotlib_logo.svg" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" height="40" alt="pytorch logo"  /> -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
+  <img src="https://studyopedia.com/wp-content/uploads/2023/07/SeaBorn-Python-Library.png" height="40" alt="seaborn logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" height="40" alt="plotly logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="keras logo"  />
   <img width="12" />
 </div>
 
