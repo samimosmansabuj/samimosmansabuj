@@ -3,7 +3,7 @@
 ###
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samimosmansabuj&label=Profile%20views&color=blueviolet&abbreviated=true&style=flat" alt="samimosmansabuj" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samimosmansabuj&label=Profile%20views&color=blueviolet&abbreviated=true&style=flat" alt="samimosmansabuj" /> </p> -->
 
 <p align="left"> <a href="https://github.com/samimosmansabuj"><img src="https://github-profile-trophy.vercel.app/?username=samimosmansabuj&theme=algolia" alt="samimosmansabuj" /></a</p>
 <h3 align="left">CAREER OBJECTIVE 👨‍💻</h3>
@@ -60,12 +60,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
